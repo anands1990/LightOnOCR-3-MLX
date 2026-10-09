@@ -4,6 +4,8 @@ Make [lightonai/LightOnOCR-3-4B](https://huggingface.co/lightonai/LightOnOCR-3-4
 runnable on Apple Silicon with [MLX](https://github.com/ml-explore/mlx) via
 [`mlx-vlm`](https://github.com/Blaizzy/mlx-vlm).
 
+> Code, scripts & tests: https://github.com/anands1990/LightOnOCR-3-MLX
+
 ## TL;DR
 
 `LightOnOCR-3-4B` is a Qwen3.5 vision-language OCR model (`model_type: qwen3_5`).
