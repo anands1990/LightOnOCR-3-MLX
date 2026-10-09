@@ -1,6 +1,10 @@
 # Converted MLX weights (multi-GB; live on the Hub, not in git)
 LightOnOCR-3-4B-mlx/
 
+# Rendered frame sequence (bulky; regenerate with make_demo.py)
+frames/
+demo/frames/
+
 # Logs
 *.log
 
