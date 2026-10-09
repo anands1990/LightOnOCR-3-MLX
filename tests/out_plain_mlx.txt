@@ -1,0 +1,52 @@
+Document No : TD01167104
+
+Date : 25/12/2018 8:13:39 PM
+
+Cashier : MANIS
+
+Member :
+
+## CASH BILL
+
+<table>
+  <thead>
+    <tr>
+      <th>CODE/DESC</th>
+      <th>PRICE</th>
+      <th>Disc</th>
+      <th>AMOUNT</th>
+    </tr>
+    <tr>
+      <th>QTY</th>
+      <th>RM</th>
+      <th></th>
+      <th>RM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9556939040116</td>
+      <td>RF MODELLING CLAY KIDDY FISH</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1 PC *</td>
+      <td>9.000</td>
+      <td>0.00</td>
+      <td>9.00</td>
+    </tr>
+    <tr>
+      <td colspan="3">Total :</td>
+      <td>9.00</td>
+    </tr>
+    <tr>
+      <td colspan="3">Rour ding Adjustment :</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <td colspan="3">Round ed Total (RM):</td>
+      <td>9.00</td>
+    </tr>
+  </tbody>
+</table>

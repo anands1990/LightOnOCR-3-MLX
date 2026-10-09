@@ -1,0 +1,13 @@
+# Converted MLX weights (multi-GB; live on the Hub, not in git)
+LightOnOCR-3-4B-mlx/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
