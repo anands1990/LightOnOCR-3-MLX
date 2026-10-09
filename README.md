@@ -41,16 +41,10 @@ mlx_vlm.generate --model AnandSingh/LightOnOCR-3-4B-4bit \
 
 ## Demo video
 
-`make_demo.py` renders an animated grounding visualization (the model's real
-bounding boxes drawing onto the receipt while the detected-block list reveals) and
-encodes it with ffmpeg. Regenerate with:
-
-```bash
-python3 make_demo.py   # -> demo/lightonocr_grounding.mp4 (+ .gif)
-```
-
-Pre-rendered output is in [`demo/`](demo/): `lightonocr_grounding.mp4`,
-`lightonocr_grounding.gif`, and a `frame_end.png` poster.
+An animated grounding visualization: the model's real bounding boxes draw onto a
+receipt while the detected-block list reveals alongside. Pre-rendered output is
+in [`demo/`](demo/): `lightonocr_grounding.mp4`, `lightonocr_grounding.gif`, and a
+`frame_end.png` poster.
 
 > These live under the personal `AnandSingh` namespace (the `mlx-community` org
 > restricts who can create repos). Rename/move to `mlx-community/…` later if you
